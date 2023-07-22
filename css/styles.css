@@ -841,14 +841,9 @@ footer {
 }
 .check-text {
 	color: var(--lightslate);
-
 	font-size: 12px;
-
 	line-height: 1.17;
 	letter-spacing: 0.04em;
-	/* display: block; */
-	align-items: center;
-	position: relative;
 }
 .modal-checkbox {
 	margin-bottom: 24px;
