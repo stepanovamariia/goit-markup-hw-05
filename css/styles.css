@@ -789,10 +789,10 @@ footer {
 }
 
 .modal-input:focus {
-	border-color: (--iris);
+	border-color: #4d5ae5;
 }
 
-.input-lable {
+.input-label {
 	display: block;
 	margin-bottom: 4px;
 	color: var(--lightslate);
@@ -819,7 +819,7 @@ footer {
 }
 
 .modal-textarea:focus {
-	border-color: (--iris);
+	border-color: #4d5ae5;
 }
 
 .modal-textarea::placeholder {
